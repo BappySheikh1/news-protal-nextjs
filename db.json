@@ -7,7 +7,7 @@
             "author": "Healthline",
             "release_date": "June 10, 2023",
             "category": "GYM",
-            "comment_count": 600,
+            "comment_count": 100,
             "image_url": "/images/exercise_image.jpg"
         },
         {
@@ -17,7 +17,7 @@
             "author": "TechNews",
             "release_date": "June 12, 2023",
             "category": "Technology",
-            "comment_count": 100,
+            "comment_count": 10,
             "image_url": "/images/company_image.jpg"
         },
         {
